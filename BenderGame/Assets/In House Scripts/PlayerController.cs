@@ -3,7 +3,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     private CharacterController characterController;
-    public float movementSpeed = 10f, rotationSpeed = 10f, jumpForce = 10f, gravity = -30f;
+    public float movementSpeed = 5f, rotationSpeed = 5f, jumpForce = 10f, gravity = -30f;
 
 
     private float rotationY;
