@@ -336,3 +336,259 @@ Received Import Request.
 Start importing Assets/Scenes/CharacterSelect.unity using Guid(7e852f0838fad3b40a583f200dd84396) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c35a3dfec98b6850214692e963f24780') in 0.1087021 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
+========================================================================
+Received Import Request.
+  Time since last request: 704.506129 seconds.
+  path: Assets/Scenes/Title-StartScreen.unity
+  artifactKey: Guid(017007b041f942b4e943ccae64d777d9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scenes/Title-StartScreen.unity using Guid(017007b041f942b4e943ccae64d777d9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f1df272acb076da320f7b65385ea9a02') in 0.1813562 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 1829.264181 seconds.
+  path: Assets/BenderGameMainBackground.jpg
+  artifactKey: Guid(a1bbc79e20a5da248a45248e96355c14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BenderGameMainBackground.jpg using Guid(a1bbc79e20a5da248a45248e96355c14) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd163ee0554435c1c5502b4e075ba6e79') in 4.7608968 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 699.391796 seconds.
+  path: Assets/BenderGameMainBackground.jpg
+  artifactKey: Guid(a1bbc79e20a5da248a45248e96355c14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BenderGameMainBackground.jpg using Guid(a1bbc79e20a5da248a45248e96355c14) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fb9f53e8d4fc0739051c6d1e633578e0') in 0.658673 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026013 seconds.
+  path: Assets/BenderGameMainBackground.jpg
+  artifactKey: Guid(a1bbc79e20a5da248a45248e96355c14) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/BenderGameMainBackground.jpg using Guid(a1bbc79e20a5da248a45248e96355c14) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '13045a9af9a75dff2e85ca3a344a40d6') in 2.0879599 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 171.126808 seconds.
+  path: Assets/Scenes/Title-StartScreen.unity
+  artifactKey: Guid(017007b041f942b4e943ccae64d777d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Title-StartScreen.unity using Guid(017007b041f942b4e943ccae64d777d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4833bf39d17e85079017b6ff6002379a') in 0.0147185 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 465.447981 seconds.
+  path: Assets/BenderGameMainBackground 1.jpg
+  artifactKey: Guid(759b6ef7eb4a41b44be733bdbc0cb1be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BenderGameMainBackground 1.jpg using Guid(759b6ef7eb4a41b44be733bdbc0cb1be) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '672d99d21d2bc283bae372f4e3a65abe') in 0.4095043 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001342 seconds.
+  path: Assets/BenderGameMainBackground 1.jpg
+  artifactKey: Guid(759b6ef7eb4a41b44be733bdbc0cb1be) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/BenderGameMainBackground 1.jpg using Guid(759b6ef7eb4a41b44be733bdbc0cb1be) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '55e6b5d2fad14ebbaff422939e571476') in 0.7387024 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.982907 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset
+  artifactKey: Guid(8a89fa14b10d46a99122fd4f73fca9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset using Guid(8a89fa14b10d46a99122fd4f73fca9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '400aadeae5ed6f821a69f5dbc157a31c') in 5.7610134 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Sprites/Default Sprites.png
+  artifactKey: Guid(a0fc465d6cf04254a2938578735e2383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Sprites/Default Sprites.png using Guid(a0fc465d6cf04254a2938578735e2383) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '78ac135d810e92a0f1311f85d1a561fc') in 0.0448479 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Brushed Metal 3.jpg
+  artifactKey: Guid(f88677df267a41d6be1e7a6133e7d227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Brushed Metal 3.jpg using Guid(f88677df267a41d6be1e7a6133e7d227) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4b743d09efa811ec728775e8a2933e76') in 0.0598562 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/World Tile Generator/TileDungeon/Art/Textures/Demo_DividerWallArchPaint_pbr_normal.png
+  artifactKey: Guid(cb7804946957f4149bb5d04dc87e6bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/World Tile Generator/TileDungeon/Art/Textures/Demo_DividerWallArchPaint_pbr_normal.png using Guid(cb7804946957f4149bb5d04dc87e6bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '73759a7842861d8b8a73f995fcba819c') in 0.1145339 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/World Tile Generator/TileDungeon/Art/Textures/Demo_DividerWallArchPaint_pbr_diffuse.png
+  artifactKey: Guid(116063838e51799408c7d48fc5fe6085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/World Tile Generator/TileDungeon/Art/Textures/Demo_DividerWallArchPaint_pbr_diffuse.png using Guid(116063838e51799408c7d48fc5fe6085) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '01eda645505290024f5199298dfc2918') in 0.0645287 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/World Tile Generator/TileDungeon/Art/Textures/Demo_DividerWallArchPaint_pbr_roughness.png
+  artifactKey: Guid(aee5db1a12bbf804bbe301d79e0faca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/World Tile Generator/TileDungeon/Art/Textures/Demo_DividerWallArchPaint_pbr_roughness.png using Guid(aee5db1a12bbf804bbe301d79e0faca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '107e94decc09c6b6addf15add21118ef') in 0.0336802 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: SC-PUY5-KXXN-FXAS-TTU2-XXXX
+  Product: Unity Education
+  Type: ULF
+  Expiration: 2026-01-15T20:55:09Z
+[Licensing::Module] License group:
+  Id: 2475763519608-kaitmarms-UnityProStuXXXX
+  Product: Unity Student
+  Type: Assigned
+  Expiration: 2026-01-09T20:55:09Z
+Duplicate assembly 'log4net.dll' with different versions detected, using 'Packages/com.unity.package-validation-suite/Lib/Editor/log4net.dll, AssemblyName=log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a' and ignoring 'Packages/com.unity.collab-proxy/Lib/Editor/log4netPlastic.dll, AssemblyName=log4net, Version=1.2.15.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a'.DirectoryNotFoundException: Could not find a part of the path "C:\Users\pinkd\OneDrive - University of Central Florida\Desktop\GitHub Projects\KnightHacks2025-\BenderGame\Library\PackageCache\com.unity.collections@aea9d3bd5e19\Unity.Collections.Tests\System.Runtime.CompilerServices.Unsafe\System.Runtime.CompilerServices.Unsafe.dll"
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <bed9669261d44da0a59448ecde2b1a5c>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <bed9669261d44da0a59448ecde2b1a5c>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at Mono.Cecil.ModuleDefinition.GetFileStream (System.String fileName, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00006] in <4e339395f8074c75847e518298d9c5fd>:0 
+  at Mono.Cecil.ModuleDefinition.ReadModule (System.String fileName, Mono.Cecil.ReaderParameters parameters) [0x00008] in <4e339395f8074c75847e518298d9c5fd>:0 
+  at Mono.Cecil.AssemblyDefinition.ReadAssembly (System.String fileName, Mono.Cecil.ReaderParameters parameters) [0x00000] in <4e339395f8074c75847e518298d9c5fd>:0 
+  at UnityEditor.AssemblyValidation.LoadAssemblyDefinitions (System.String[] assemblyPaths, System.String[] searchPaths) [0x00048] in <249bd745c87d4709a14b0b4bf1cfac22>:0 
+  at UnityEditor.AssemblyValidation.ValidateAssemblies (System.String[] assemblyPaths, System.Boolean enableLogging) [0x00007] in <249bd745c87d4709a14b0b4bf1cfac22>:0 
+
+- Loaded All Assemblies, in  8.409 seconds
+Refreshing native plugins compatible for Editor in 18.54 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.084 seconds
+Domain Reload Profiling: 11511ms
+	BeginReloadAssembly (5365ms)
+		ExecutionOrderSort (10ms)
+		DisableScriptedObjects (872ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (6ms)
+		CreateAndSetChildDomain (2392ms)
+	RebuildCommonClasses (254ms)
+	RebuildNativeTypeToScriptingClass (32ms)
+	initialDomainReloadingComplete (148ms)
+	LoadAllAssembliesAndSetupDomain (2626ms)
+		LoadAssemblies (1897ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1710ms)
+			TypeCache.Refresh (76ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (1562ms)
+			ResolveRequiredComponents (33ms)
+	FinalizeReload (3086ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2268ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			SetLoadedEditorAssemblies (30ms)
+			BeforeProcessingInitializeOnLoad (517ms)
+			ProcessInitializeOnLoadAttributes (1460ms)
+			ProcessInitializeOnLoadMethodAttributes (225ms)
+			AfterProcessingInitializeOnLoad (27ms)
+			EditorAssembliesLoaded (2ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (44ms)
+Refreshing native plugins compatible for Editor in 9.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6596 unused Assets / (4.4 MB). Loaded Objects now: 7398.
+Memory consumption went from 147.3 MB to 142.9 MB.
+Total: 34.315700 ms (FindLiveObjects: 4.725800 ms CreateObjectMapping: 2.860800 ms MarkObjects: 20.060900 ms  DeleteObjects: 6.654500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: SC-PUY5-KXXN-FXAS-TTU2-XXXX
+  Product: Unity Education
+  Type: ULF
+  Expiration: 2026-01-15T20:55:09Z
+[Licensing::Module] License group:
+  Id: 2475763519608-kaitmarms-UnityProStuXXXX
+  Product: Unity Student
+  Type: Assigned
+  Expiration: 2026-01-09T20:55:09Z
+Duplicate assembly 'log4net.dll' with different versions detected, using 'Packages/com.unity.package-validation-suite/Lib/Editor/log4net.dll, AssemblyName=log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a' and ignoring 'Packages/com.unity.collab-proxy/Lib/Editor/log4netPlastic.dll, AssemblyName=log4net, Version=1.2.15.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a'.DirectoryNotFoundException: Could not find a part of the path "C:\Users\pinkd\OneDrive - University of Central Florida\Desktop\GitHub Projects\KnightHacks2025-\BenderGame\Library\PackageCache\com.unity.collections@aea9d3bd5e19\Unity.Collections.Tests\System.Runtime.CompilerServices.Unsafe\System.Runtime.CompilerServices.Unsafe.dll"
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <bed9669261d44da0a59448ecde2b1a5c>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <bed9669261d44da0a59448ecde2b1a5c>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at Mono.Cecil.ModuleDefinition.GetFileStream (System.String fileName, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00006] in <4e339395f8074c75847e518298d9c5fd>:0 
+  at Mono.Cecil.ModuleDefinition.ReadModule (System.String fileName, Mono.Cecil.ReaderParameters parameters) [0x00008] in <4e339395f8074c75847e518298d9c5fd>:0 
+  at Mono.Cecil.AssemblyDefinition.ReadAssembly (System.String fileName, Mono.Cecil.ReaderParameters parameters) [0x00000] in <4e339395f8074c75847e518298d9c5fd>:0 
+  at UnityEditor.AssemblyValidation.LoadAssemblyDefinitions (System.String[] assemblyPaths, System.String[] searchPaths) [0x00048] in <249bd745c87d4709a14b0b4bf1cfac22>:0 
+  at UnityEditor.AssemblyValidation.ValidateAssemblies (System.String[] assemblyPaths, System.Boolean enableLogging) [0x00007] in <249bd745c87d4709a14b0b4bf1cfac22>:0 
+
+- Loaded All Assemblies, in  7.769 seconds
+Refreshing native plugins compatible for Editor in 5.54 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.345 seconds
+Domain Reload Profiling: 10169ms
+	BeginReloadAssembly (3582ms)
+		ExecutionOrderSort (1ms)
+		DisableScriptedObjects (197ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (2ms)
+		CreateAndSetChildDomain (1867ms)
+	RebuildCommonClasses (151ms)
+	RebuildNativeTypeToScriptingClass (40ms)
+	initialDomainReloadingComplete (147ms)
+	LoadAllAssembliesAndSetupDomain (3904ms)
+		LoadAssemblies (3205ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1197ms)
+			TypeCache.Refresh (50ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (1001ms)
+			ResolveRequiredComponents (60ms)
+	FinalizeReload (2346ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1787ms)
+			LogAssemblyErrors (1ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (17ms)
+			BeforeProcessingInitializeOnLoad (496ms)
+			ProcessInitializeOnLoadAttributes (1050ms)
+			ProcessInitializeOnLoadMethodAttributes (189ms)
+			AfterProcessingInitializeOnLoad (27ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (50ms)
+Refreshing native plugins compatible for Editor in 3.90 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6596 unused Assets / (5.2 MB). Loaded Objects now: 7401.
+Memory consumption went from 147.1 MB to 141.9 MB.
+Total: 34.439900 ms (FindLiveObjects: 2.789500 ms CreateObjectMapping: 3.114000 ms MarkObjects: 18.211100 ms  DeleteObjects: 10.318400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 1784.760454 seconds.
+  path: Assets/Scenes/CharacterSelect.unity
+  artifactKey: Guid(7e852f0838fad3b40a583f200dd84396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CharacterSelect.unity using Guid(7e852f0838fad3b40a583f200dd84396) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '38d2afcba18f5000adc1adbcbada38cf') in 0.734412 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
