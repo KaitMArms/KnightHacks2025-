@@ -1,0 +1,19 @@
+using Unity Engine;
+using UnityEngine.SceneManagement;
+
+public class UIManager : MonoBehavior
+{
+    public void onPlay()
+    {
+        // For play button
+        Debug.Log("Game starting momentarily....");
+        SceneManager.LoadScene("CharacterSelect");
+    }
+
+    public void onExit()
+    {
+        // For exit button
+        Debug.Log("Game closing momentarily....");
+        Application.Quit();
+    }
+}

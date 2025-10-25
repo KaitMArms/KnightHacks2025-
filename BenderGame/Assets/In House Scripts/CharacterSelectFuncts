@@ -1,0 +1,18 @@
+using UnityEngine.SceneManagement;
+
+public class UIManager : MonoBehavior
+{
+    public void femaleSelected()
+    {
+        // For play button
+        Debug.Log("Female player character selected. Loading game....");
+        SceneManager.LoadScene("SpawnScene");
+    }
+
+    public void maleSelected()
+    {
+        // For exit button
+        Debug.Log("Male player character selected. Loading game....");
+        SceneManager.LoadScene("SpawnScene");
+    }
+}
