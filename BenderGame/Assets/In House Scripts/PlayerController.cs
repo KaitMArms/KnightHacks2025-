@@ -5,7 +5,8 @@ public class PlayerController : MonoBehaviour
     private CharacterController characterController;
 
     private Animator animator;
-    public float movementSpeed = 5f, rotationSpeed = 5f, jumpForce = 10f, gravity = -30f;
+    public float movementSpeed = 5f, rotationSpeed = 5f, jumpForce = 10f, gravity = -30;
+    public int playerHealth = 100;
 
 
     private float rotationY;
