@@ -3,7 +3,7 @@
 ###
 [Aa]ssets/AssetStoreTools*
 [Bb]uild/
-[Bb]enderGame/Logs/
+**/[Ll]ogs/
 [Ll]ibrary/
 [Ll]ocal[Cc]ache/
 [Oo]bj/
@@ -27,6 +27,7 @@ sysinfo.txt
 *.user
 *.userprefs
 *.pidb
+*.log
 .DS_Store
 
 ###
@@ -40,3 +41,4 @@ sysinfo.txt
 Icon?
 ehthumbs.db
 Thumbs.db
+/BenderGame/Logs
