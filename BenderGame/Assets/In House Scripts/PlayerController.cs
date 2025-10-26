@@ -3,6 +3,8 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     private CharacterController characterController;
+
+    private Animator animator;
     public float movementSpeed = 5f, rotationSpeed = 5f, jumpForce = 10f, gravity = -30f;
 
 
@@ -12,14 +14,24 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         characterController = GetComponent<CharacterController>();
+        animator = GetComponent<Animator>();
     }
 
     public void Move(Vector2 input)
     {
+
         Vector3 move = transform.forward * input.y + transform.right * input.x;
         move = move * movementSpeed * Time.deltaTime;
         characterController.Move(move);
 
+        if(move == Vector3.zero)
+        {
+            animator.SetBool("isRunning", false);
+        }
+        else
+        {
+            animator.SetBool("isRunning", true);
+        }
         vertVelocity = vertVelocity + gravity * Time.deltaTime;
         characterController.Move(new Vector3(0, vertVelocity, 0) * Time.deltaTime);
     }
