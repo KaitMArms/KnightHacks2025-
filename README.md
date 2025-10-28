@@ -1,1 +1,1 @@
-This game was constructed in 36 hours during Knights Hack 2025 by a team of 4. It is a 3D dungeon crawl / fighting game with a host website to enable users to securely download this project.
+This game was started during KnightHacks2025; however, during the course of this event it was not fully completed. To see what was accomplished during the hackthon go to the secondary brain title "What-Was-Completed-During-The-Hack". The main branch is the continuation of this project as a personal work in progress project. Stay tuned for the final result!
